@@ -1,0 +1,105 @@
+{
+  "puntos": [
+    {
+      "x": -15,
+      "y": -5,
+      "indice": "A"
+    },
+    {
+      "x": -5,
+      "y": -5,
+      "indice": "B"
+    },
+    {
+      "x": 15,
+      "y": -5,
+      "indice": "C"
+    },
+     {
+      "x": -15,
+      "y": 5,
+      "indice": "D"
+    },
+    {
+        "x": -5,
+        "y": 5,
+        "indice": "E"
+    },
+    {
+        "x": 15,
+        "y": 5,
+        "indice": "F"
+    },
+     {
+      "x": -10,
+      "y": 10,
+      "indice": "G"
+    } {
+      "x": 10,
+      "y": 10,
+      "indice": "H"
+    }
+  ],
+    "linea": [
+        {
+            "inicio": 0,
+            "final": 1
+        },
+        {
+            "inicio": 1,
+            "final": 4
+        },
+        {
+            "inicio": 4,
+            "final": 3
+        },
+        {
+            "inicio": 3,
+            "final": 0
+        },
+        {
+            "inicio": 1,
+            "final": 2
+        },
+        {
+            "inicio": 2,
+            "final": 5
+        },
+        {
+            "inicio": 5,
+            "final": 4
+        },
+        {
+            "inicio": 4,
+            "final": 1
+        },
+        {
+            "inicio": 3,
+            "final": 4
+        },
+        {
+            "inicio": 4,
+            "final": 6
+        },
+        {
+            "inicio": 6,
+            "final": 3
+        },
+        {
+            "inicio": 4,
+            "final": 5
+        },
+        {
+            "inicio": 5,
+            "final": 7
+        },
+        {
+            "inicio": 7,
+            "final": 6
+        },
+        {
+            "inicio": 6,
+            "final": 4
+        }
+    ]
+}
